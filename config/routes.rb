@@ -1,9 +1,10 @@
 Rails.application.routes.draw do
   resources :users
+  get '' => 'home#index'
 	get '/hello/index'
 	get '/calc/index'
 	post '/calc/add'
-	post '/calc/sub'
+	get '/calc/add' => 'calc/index'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
