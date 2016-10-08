@@ -2,7 +2,7 @@ class HelloController < ApplicationController
   def index
     @name = params[:name]
   end
-  def indexxxx
+  def indexxxxwc
     @name = params[:name]
   end
 end
