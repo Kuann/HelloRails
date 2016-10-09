@@ -1,8 +1,8 @@
 # Seminar Tutorial - *Hello Rails*
 
-**Hello Rails** https://hellorails2.herokuapp.com/
+**Hello Rails** 
 
-URL: **Insert your Heroku URL here**
+URL: https://hellorails2.herokuapp.com/
 
 ## Features
 
@@ -17,7 +17,7 @@ URL: **Insert your Heroku URL here**
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](relative-path-to-your-gif-file-on-github-or-absolute-path-to-file-on-imgur-or-youtube)
+![Video Walkthrough](demo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
